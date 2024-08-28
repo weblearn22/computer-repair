@@ -1,6 +1,6 @@
 # Simple Website Using Github Pages
 Make a simple HTML website and publish it using Github Pages.  
-View example: https://weblearn22.github.io/computer-repair/
+View example: https://weblearn22.github.io/computer-service/
 
 ## Setup
 - Create a Github account (if you don't have one yet)

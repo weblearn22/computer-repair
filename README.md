@@ -7,7 +7,7 @@ View example: https://weblearn22.github.io/computer-repair/
 - Fork this repository to copy it to your account, i.e. github.com/username/simple-website-repair (you can rename it as well)
 - Make sure you see the gh-pages branch (it should be the default)
 - Edit website files on the gh-pages branch, then wait a minute or two for Github Pages to update and deploy your site.
-- View your site: https://username.github.io/computer-repair
+- View your site: https://username.github.io/computer-service
 
 ## How does this work?
 This website template uses CSS & JS to hide and show different parts of index.html and uses Github Pages to render the website from the gh-pages branch.

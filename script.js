@@ -1,3 +1,11 @@
+import { autoTranslate } from "https://cdn.jsdelivr.net/gh/Mr-vero/AutoTranslate@v.2.0.1/dist/autoTranslate.js";
+
+// Automatically translate when the DOM content is loaded
+document.addEventListener("DOMContentLoaded", async () => {
+  const targetLanguage = "English"; // Replace with the target language code
+  await autoTranslate("Mandarin Chinese", targetLanguage);
+});
+
 // Wait for the document to load before running the script 
 (function ($) {
   

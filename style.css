@@ -137,9 +137,9 @@ ul.main-menu li a.active {
   display:block;
 }
 
-.div-class {
-  display: flex;
-  justify-content: right;
+.half {
+  width:50%;
+  display: table-cell;
 }
 
 

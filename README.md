@@ -33,7 +33,7 @@ Yes! Github Pages supports [custom domain configuration](https://help.github.com
 This template works best for simple sites. For a blog you can try setting up [Jekyll, which is a static site generator that also works on Github pages](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll). For even more functionality, you will probably need a content management system (CMS) such as [Wordpress](https://wordpress.com), [Drupal](http://drupal.org), or [Django](https://www.djangoproject.com). A CMS will require additional setup and a website host, such as [Dreamhost](https://www.dreamhost.com/). 
 
 ### Can I add a store?
-If you are interested in selling products online, check out [BigCartel](www.bigcartel.com), which lets you setup a storefront with 5 products for free.
+If you are interested in selling products online, check out [BigCartel](https://www.bigcartel.com), which lets you setup a storefront with 5 products for free.
 
 ### I heard I need to be using XYZ framework (Bootstrap, React, etc).
 Web technology changes rapidly, and it easy to get lost in the hype. Learning the basics of HTML, CSS, and JS is a good place to start. From there, you can explore different frameworks and libraries to see what interests you.

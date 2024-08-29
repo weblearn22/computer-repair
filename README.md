@@ -16,7 +16,7 @@ This website template uses CSS & JS to hide and show different parts of index.ht
 - Edit index.html and change the title of the page
 - Edit index.html and change the content displayed in home, about, and contact.
 - Edit index.html and change the content in the footer region.
-- Replace logo.jpg and background.jpg with your own images.
+- Replace logo.jpg and background.jpg (width: 800 pixels) with your own images.
 - Update the metadata in the header portion of index.html (this is used by search engines and browsers).
 - Edit style.css and change the link color and font style.
 - Replace images with a max width of 400 pixels.

@@ -137,12 +137,5 @@ ul.main-menu li a.active {
   display:block;
 }
 
-span/figure { 
-    display: flex; 
-    width: max-content;
-           }
 
-img {
-    width: 50%;
-          }
 

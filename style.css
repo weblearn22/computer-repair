@@ -137,5 +137,11 @@ ul.main-menu li a.active {
   display:block;
 }
 
+figure {
+    width: intrinsic;
+           }
 
+img {
+    width: 50%;
+          }
 

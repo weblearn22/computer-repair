@@ -142,5 +142,13 @@ ul.main-menu li a.active {
   display: table-cell;
 }
 
+.container {
+  display: flex;
+}
+
+.column-left,
+.column-right {
+  width: 50%;
+}
 
 

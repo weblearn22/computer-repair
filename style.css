@@ -137,8 +137,9 @@ ul.main-menu li a.active {
   display:block;
 }
 
-figure {
-    width: intrinsic;
+span/figure { 
+    display: flex; 
+    width: max-content;
            }
 
 img {

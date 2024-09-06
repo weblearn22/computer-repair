@@ -4,7 +4,7 @@ View example: https://weblearn22.github.io/computer-service/
 
 ## Setup
 - Create a Github account (if you don't have one yet)
-- Fork this repository to copy it to your account, i.e. github.com/username/simple-website-repair (you can rename it as well)
+- Fork this repository to copy it to your account, i.e. github.com/username/computer-service (you can rename it as well)
 - Make sure you see the gh-pages branch (it should be the default)
 - Edit website files on the gh-pages branch, then wait a minute or two for Github Pages to update and deploy your site.
 - View your site: https://username.github.io/computer-service
